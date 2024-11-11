@@ -1,21 +1,25 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+/*
+This program stores information about a car
+and displays the details using document.writeln().
+*/
 
-// Constants
 
-// Functions
+// Author: Nayezca Guzman-Jubb
+// Date: October 21, 2024
 
-// this is an example function and this comment tells what it doees and what parameters are passed to it.
-function myFunction(param1, param2) {
-  // some code here
-  // return results;
-}
 
-function main() {
-  console.log("Main function started.");
-  // the code that makes everything happen
-}
+// Define variables
+var make = "Honda";
+var model = "Fit";
+var color = "Blue";
+var year = 2012;
+var age = 2024 - year;
 
-// let's get this party started
-main();
+
+// Output variables to a specific HTML element
+var outputDiv = document.getElementById("output");
+outputDiv.innerHTML = "Make: " + make + "<br>" +
+                     "Model: " + model + "<br>" +
+                     "Color: " + color + "<br>" +
+                     "Year: " + year + "<br>" +
+                     "Age: " + age + " years<br>";
