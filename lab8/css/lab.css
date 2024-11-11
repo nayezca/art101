@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(219, 210, 222);
+ }
+ 
+ 
+ #content {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #87699b;
+    background-color: #ddf1e3;
+    border-radius: 20px;
+ }
+ 
+ 
+ h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ }
+ 
+ 
+ h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ }
+ 
+ 
+ p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ 
