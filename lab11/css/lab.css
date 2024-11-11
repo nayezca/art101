@@ -3,8 +3,8 @@
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 
 #content {
-    background-color: rgb(205, 245, 253);
-    border: solid 10px #57b5e7;
+    background-color: rgb(205, 253, 211);
+    border: solid 10px #92d797;
     border-radius: 20px;
     margin-left: 50px;
     margin-right: 50px;
@@ -13,7 +13,7 @@
 }  
 
 body {
-    background-color: #c4f3ff;
+    background-color: #d2f3c5;
 }
 
 p {
@@ -44,7 +44,7 @@ h2, p {
 }
 
 .sectionbox {
-    border: solid 3px #58acff;
+    border: solid 3px #73cb75;
     border-radius: 20px;
     margin: 20px;
 }
