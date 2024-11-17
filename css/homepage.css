@@ -1,13 +1,6 @@
 /* this css file will only style the homepage of our site */
 
 
-/* Picture */
-.portrait {
-  max-width: 300px;
-  padding: 15px;
-  background-color: #c9eac1;
-  border-radius: 30px;
-}
 
 /* Main background section */
 body {
@@ -27,6 +20,13 @@ body {
   align-items: flex-start;
   gap: 20px;
   margin-top: 20px;
+}
+
+.portrait {
+  max-width: 300px;
+  padding: 15px;
+  background-color: #c9eac1;
+  border-radius: 30px;
 }
 
 .about-me {
